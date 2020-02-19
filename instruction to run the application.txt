@@ -1,0 +1,6 @@
+Instruction to run the application: 
+
+1: Create a new database by name c3 by using provided c3.sql file (MySQL database).
+2: Clone the project by ' git clone https://github.com/basit1327/c3.git'
+3: Run 'npm install to install require packages'
+4: Run the application by using 'node index.js'
